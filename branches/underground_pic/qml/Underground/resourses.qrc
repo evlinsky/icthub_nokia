@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/delete.svg</file>
+        <file>Icons/piter_v3_0.jpg</file>
+    </qresource>
+</RCC>

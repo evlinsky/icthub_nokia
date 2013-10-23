@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/delete.svg</file>
+        <file>moscow.xml</file>
+        <file>spb.xml</file>
+    </qresource>
+</RCC>

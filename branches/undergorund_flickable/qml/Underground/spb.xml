@@ -1,0 +1,139 @@
+<!DOCTYPE underMapInfo>
+<info description="st.petersburg underground 2011" sourceHeight="621" sourceWidth="500" fontSize="12" source="Icons/spb.svg">
+        <stations_list stationNum = "64">
+                <station id="1" fullname="Автово" name="Автово" stationcolor="#de0000" x="35" y="491" width="63" height="20" halign="1" valign="128" line="1" />
+                <station id="2" fullname="Академическая" name="Академическая" stationcolor="#de0000" x="320" y="55" width="100" height="20" halign="2" valign="128" line="1" />
+                <station id="3" fullname="Балтийская" name="Балтийская" stationcolor="#de0000" x="58" y="420" width="90" height="22" halign="1" valign="128" line="1" />
+                <station id="4" fullname="Василеостровская" name="Василеостровская" stationcolor="#029302" x="20" y="279" width="90" height="30" halign="4" valign="64" line="3" />
+                <station id="5" fullname="Владимирская" name="Владимирская" stationcolor="#de0000" x="225" y="324" width="92" height="20" halign="2" valign="128" line="1" />
+                <station id="6" fullname="Волковская" name="Волковская" stationcolor="#b840c9" x="250" y="448" width="75" height="20" halign="2" valign="128" line="5" />
+                <station id="7" fullname="Выборгская" name="Выборгская" stationcolor="#de0000" x="268" y="160" width="83" height="20" halign="2" valign="128" line="1" />
+                <station id="8" fullname="Горьковская" name="Горьковская" stationcolor="#2778c9" x="153" y="202" width="80" height="22" halign="2" valign="128" line="2" />
+                <station id="9" fullname="Гостиный двор" name="Гостиный  двор" stationcolor="#029302" x="119" y="279" width="90" height="30" halign="4" valign="64" line="3" />
+                <station id="10" fullname="Гражданский проспект" name="Гражданский  пр-т" stationcolor="#de0000" x="340" y="33" width="113" height="20" halign="2" valign="128" line="1" />
+                <station id="11" fullname="Девяткино" name="Девяткино" stationcolor="#de0000" x="340" y="-2" width="76" height="20" halign="2" valign="128" line="1" />
+                <station id="12" fullname="Достоевская" name="Достоевская" stationcolor="#ffb000" x="235" y="340" width="80" height="20" halign="2" valign="32" line="4" />
+                <station id="13" fullname="Елизаровская" name="Елизаровская" stationcolor="#029302" x="318" y="389" width="87" height="20" halign="2" valign="128" line="3" />
+                <station id="14" fullname="Звёздная" name="Звёздная" stationcolor="#2778c9" x="175" y="553" width="65" height="20" halign="2" valign="128" line="2" />
+                <station id="15" fullname="Звенигородская" name="Звенигородская" stationcolor="#b840c9" x="207" y="360" width="93" height="20" halign="2" valign="128" line="5" />
+                <station id="16" fullname="Кировский завод" name="Кировский  завод" stationcolor="#de0000" x="0" y="470" width="100" height="20" halign="1" valign="128" line="1" />
+                <station id="17" fullname="Комендантский проспект" name="Комендантский  пр-т" stationcolor="#b840c9" x="0" y="67" width="103" height="33" line="5" halign="2" valign="32"/>
+                <station id="18" fullname="Крестовский остров" name="Крестовский  остров         " stationcolor="#b840c9" x="40" y="154" width="75" height="30" halign="2" valign="128" line="5" />
+                <station id="19" fullname="Купчино" name="Купчино" stationcolor="#2778c9" x="190" y="575" width="67" height="20" halign="2" valign="128" line="2" />
+                <station id="20" fullname="Ладожская" name="Ладожская" stationcolor="#ffb000" x="404" y="367" width="80" height="22" halign="1" valign="128" line="4" />
+                <station id="21" fullname="Ленинский проспект" name="Ленинский  пр-т" stationcolor="#de0000" x="0" y="516" width="100" height="20" halign="1" valign="128" line="1" />
+                <station id="22" fullname="Лесная" name="Лесная" stationcolor="#de0000" x="268" y="133" width="60" height="20" halign="2" valign="128" line="1" />
+                <station id="23" fullname="Лиговский проспект" name="Лиговский  пр-т" stationcolor="#ffb000" x="200" y="381" width="92" height="20" halign="1" valign="32" line="4" />
+                <station id="24" fullname="Ломоносовская" name="Ломоносовская" stationcolor="#029302" x="318" y="428" width="95" height="20" halign="2" valign="128" line="5" />
+                <station id="25" fullname="Маяковская" name="Маяковская" stationcolor="#029302" x="220" y="291" width="87" height="20" halign="1" valign="128" line="3" />
+                <station id="26" fullname="Московская" name="Московская" stationcolor="#2778c9" x="155" y="532" width="80" height="20" halign="2" valign="128" line="2" />
+                <station id="27" fullname="Московские ворота" name="Московские  ворота           " stationcolor="#2778c9" x="155" y="446" width="80" height="30" halign="2" valign="128" line="2" />
+                <station id="28" fullname="Нарвская" name="Нарвская" stationcolor="#de0000" x="45" y="443" width="85" height="22" halign="1" valign="128" line="1" />
+                <station id="29" fullname="Невский проспект" name="Невский  пр-т" stationcolor="#2778c9" x="153" y="257" width="85" height="22" halign="2" valign="128" line="2" />
+                <station id="30" fullname="Новочеркасская" name="Новочеркасская" stationcolor="#ffb000" x="397" y="323" width="83" height="40" halign="1" valign="32" line="4" />
+                <station id="31" fullname="Обводный канал" name="Обводный  канал         " stationcolor="#b840c9" x="250" y="401" width="67" height="30" halign="2" valign="128" line="5" />
+                <station id="32" fullname="Обухово" name="Обухово" stationcolor="#029302" x="341" y="499" width="65" height="20" halign="2" valign="128" line="3" />
+                <station id="33" fullname="Озерки" name="Озерки" stationcolor="#2778c9" x="155" y="40" width="57" height="22" halign="2" valign="128" line="2" />
+                <station id="34" fullname="Парк Победы" name="Парк  Победы" stationcolor="#2778c9" x="155" y="503" width="87" height="22" halign="2" valign="128" line="2" />
+                <station id="35" fullname="Парнас" name="Парнас" stationcolor="#2778c9" x="200" y="-4" width="60" height="22" halign="2" valign="128" line="2" />
+                <station id="36" fullname="Петроградская" name="Петроградская" stationcolor="#2778c9" x="128" y="177" width="95" height="22" halign="2" valign="128" line="2" />
+                <station id="37" fullname="Пионерская" name="Пионерская" stationcolor="#2778c9" x="128" y="88" width="80" height="22" halign="2" valign="128" line="2" />
+                <station id="38" fullname="Пл. Александра Невского-1" name="Пл  Александра  Невского-1" stationcolor="#029302" x="318" y="308" width="78" height="32" halign="2" valign="32" line="3" />
+                <station id="39" fullname="Пл. Александра Невского-2" name="Пл  Александра  Невского-2" stationcolor="#ffb000" x="318" y="340" width="78" height="47" halign="2" valign="64" line="4" />
+                <station id="40" fullname="Площадь Восстания" name="Пл  Восстания" stationcolor="#de0000" x="268" y="271" width="92" height="20" halign="2" valign="128" line="1" />
+                <station id="41" fullname="Площадь Ленина" name="Площадь  Ленина" stationcolor="#de0000" x="268" y="186" width="110" height="20" halign="2" valign="128" line="1" />
+                <station id="42" fullname="Площадь Мужества" name="Площадь  Мужества" stationcolor="#de0000" x="297" y="107" width="115" height="20" halign="2" valign="128" line="1" />
+                <station id="43" fullname="Политехническая" name="Политехническая" stationcolor="#de0000" x="300" y="80" width="103" height="20" halign="2" valign="128" line="1" />
+                <station id="44" fullname="Приморская" name="Приморская" stationcolor="#029302" x="0" y="245" width="70" height="30" halign="4" valign="32" line="3" />
+                <station id="45" fullname="Пролетарская" name="Пролетарская" stationcolor="#029302" x="315" y="470" width="92" height="22" halign="2" valign="128" line="3" />
+                <station id="46" fullname="Проспект Большевиков" name="Пр-т  Большевиков" stationcolor="#ffb000" x="368" y="409" width="122" height="20" halign="1" valign="128" line="4" />
+                <station id="47" fullname="Проспект Ветеранов" name="Пр-т  Ветеранов" stationcolor="#de0000" x="0" y="542" width="100" height="20" halign="1" valign="128" line="1" />
+                <station id="48" fullname="Проспект Просвещения" name="Пр-т  Просвещения" stationcolor="#2778c9" x="175" y="18" width="112" height="22" halign="2" valign="128" line="2" />
+                <station id="49" fullname="Пушкинская" name="Пушкинская" stationcolor="#de0000" x="120" y="351" width="87" height="20" halign="1" valign="128" line="1" />
+                <station id="50" fullname="� ыбацкое" name="� ыбацкое" stationcolor="#029302" x="341" y="532" width="75" height="20" halign="2" valign="128" line="3" />
+                <station id="51" fullname="Садовая" name="Садовая" stationcolor="#b840c9" x="100" y="309" width="68" height="20" halign="1" valign="128" line="5" />
+                <station id="52" fullname="Сенная площадь" name="Сенная  площадь" stationcolor="#2778c9" x="55" y="329" width="107" height="20" halign="1" valign="128" line="2" />
+                <station id="53" fullname="Спасская" name="Спасская" stationcolor="#ffb000" x="168" y="309" width="55" height="33" halign="2" valign="32" line="4" />
+                <station id="54" fullname="Спортивная" name="Спортивная" stationcolor="#b840c9" x="75" y="233" width="75" height="20" halign="2" valign="128" line="5" />
+                <station id="55" fullname="Старая Деревня" name="Старая  Деревня" stationcolor="#b840c9" x="40" y="115" width="57" height="30" halign="2" valign="128" line="5" />
+                <station id="56" fullname="Технологический Институт-1" name="Технологический  Институт-1" stationcolor="#de0000" x="0" y="398" width="170" height="20" halign="1" valign="128" line="1" />
+                <station id="57" fullname="Технологический Институт-2" name="Технологический  Институт-2" stationcolor="#2778c9" x="0" y="378" width="170" height="20" halign="1" valign="128" line="2" />
+                <station id="58" fullname="Удельная" name="Удельная" stationcolor="#2778c9" x="155" y="62" width="70" height="22" halign="2" valign="128" line="2" />
+                <station id="59" fullname="Улица Дыбенко" name="Улица  Дыбенко" stationcolor="#ffb000" x="382" y="448" width="98" height="22" halign="1" valign="128" line="4" />
+                <station id="60" fullname="Фрунзенская" name="Фрунзенская" stationcolor="#2778c9" x="155" y="424" width="85" height="22" halign="2" valign="128" line="2" />
+                <station id="61" fullname="Чёрная речка" name="Чёрная  речка" stationcolor="#2778c9" x="130" y="117" width="85" height="22" halign="2" valign="128" line="2" />
+                <station id="62" fullname="Чернышевская" name="Чернышевская" stationcolor="#de0000" x="268" y="244" width="100" height="20" halign="2" valign="128" line="1" />
+                <station id="63" fullname="Чкаловская" name="Чкаловская" stationcolor="#b840c9" x="75" y="200" width="75" height="20" halign="2" valign="128" line="5" />
+                <station id="64" fullname="Электросила" name="Электросила" stationcolor="#2778c9" x="155" y="477" width="83" height="22" halign="2" valign="128" line="2" />
+	</stations_list>	
+	<edges_list>	
+                <edge id="1" value="3" idFrom="19" idTo="14" byLegs="0" location="" x1="215" y1="610" x2="192" y2="586"/>
+                <edge id="2" value="4" idFrom="14" idTo="26" byLegs="0" location="" x1="192" y1="586" x2="170" y2="566"/>
+                <edge id="3" value="3" idFrom="26" idTo="34" byLegs="0" location="" x1="170" y1="566" x2="170" y2="535"/>
+                <edge id="4" value="2" idFrom="34" idTo="64" byLegs="0" location="" x1="170" y1="535" x2="171" y2="509"/>
+                <edge id="5" value="2" idFrom="64" idTo="27" byLegs="0" location="" x1="171" y1="509" x2="171" y2="481"/>
+                <edge id="6" value="2" idFrom="27" idTo="60" byLegs="0" location="" x1="171" y1="481" x2="171" y2="454"/>
+                <edge id="7" value="2" idFrom="60" idTo="57" byLegs="0" location="" x1="171" y1="454" x2="171" y2="430"/>
+                <edge id="8" value="1" idFrom="57" idTo="56" byLegs="1" location="" x1="158" y1="409" x2="170" y2="420" x3="164" y3="415"/>
+                <edge id="9" value="3" idFrom="57" idTo="52" byLegs="0" location="" x1="158" y1="398" x2="158" y2="363"/>
+                <edge id="10" value="3" idFrom="51" idTo="52" byLegs="1" location="" x1="169" y1="337" x2="158" y2="348" x3="169" y3="345"/>
+                <edge id="11" value="3" idFrom="53" idTo="52" byLegs="1" location="" x1="180" y1="348" x2="158" y2="348" x3="169" y3="345"/>
+                <edge id="12" value="2" idFrom="52" idTo="29" byLegs="0" location="" x1="169" y1="324" x2="169" y2="307"/>
+                <edge id="13" value="2" idFrom="29" idTo="9" byLegs="1" location="" x1="169" y1="282" x2="169" y2="297" x3="169" y3="290"/>
+                <edge id="14" value="4" idFrom="29" idTo="8" byLegs="0" location="" x1="169" y1="272" x2="169" y2="222"/>
+                <edge id="15" value="2" idFrom="8" idTo="36" byLegs="0" location="" x1="169" y1="222" x2="142" y2="195"/>
+                <edge id="16" value="4" idFrom="36" idTo="61" byLegs="0" location="" x1="142" y1="195" x2="142" y2="133"/>
+                <edge id="17" value="3" idFrom="61" idTo="37" byLegs="0" location="" x1="142" y1="133" x2="142" y2="102"/>
+                <edge id="18" value="3" idFrom="37" idTo="58" byLegs="0" location="" x1="142" y1="102" x2="170" y2="75"/>
+                <edge id="19" value="3" idFrom="58" idTo="33" byLegs="0" location="" x1="170" y1="75" x2="170" y2="52"/>
+                <edge id="20" value="2" idFrom="33" idTo="48" byLegs="0" location="" x1="170" y1="52" x2="193" y2="29"/>
+                <edge id="21" value="3" idFrom="48" idTo="35" byLegs="0" location="" x1="193" y1="29" x2="216" y2="6"/>
+                <edge id="22" value="2" idFrom="47" idTo="21" byLegs="0" location="" x1="92" y1="577" x2="92" y2="549"/>
+                <edge id="23" value="3" idFrom="21" idTo="1" byLegs="0" location="" x1="92" y1="549" x2="92" y2="521"/>
+                <edge id="24" value="2" idFrom="1" idTo="16" byLegs="0" location="" x1="92" y1="521" x2="92" y2="496"/>
+                <edge id="25" value="4" idFrom="16" idTo="28" byLegs="0" location="" x1="92" y1="496" x2="117" y2="472"/>
+                <edge id="26" value="3" idFrom="28" idTo="3" byLegs="0" location="" x1="117" y1="472" x2="141" y2="447"/>
+                <edge id="27" value="3" idFrom="3" idTo="56" byLegs="0" location="" x1="141" y1="447" x2="158" y2="432"/>
+                <edge id="28" value="2" idFrom="56" idTo="49" byLegs="0" location="" x1="180" y1="409" x2="199" y2="390"/>
+                <edge id="29" value="2" idFrom="49" idTo="15" byLegs="1" location="" x1="221" y1="378" x2="220" y2="388" x3="216" y3="384"/>
+                <edge id="30" value="2" idFrom="49" idTo="5" byLegs="0" location="" x1="222" y1="368" x2="229" y2="360"/>
+                <edge id="31" value="2" idFrom="5" idTo="12" byLegs="1" location="" x1="240" y1="349" x2="251" y2="359" x3="246" y3="354"/>
+                <edge id="32" value="2" idFrom="5" idTo="40" byLegs="0" location="" x1="252" y1="337" x2="281" y2="308"/>
+                <edge id="33" value="2" idFrom="40" idTo="25" byLegs="1" location="" x1="292" y1="296" x2="304" y2="308" x3="299" y3="303"/>
+                <edge id="34" value="2" idFrom="40" idTo="62" byLegs="0" location="" x1="292" y1="285" x2="292" y2="263"/>
+                <edge id="35" value="3" idFrom="62" idTo="41" byLegs="0" location="" x1="292" y1="263" x2="292" y2="204"/>
+                <edge id="36" value="2" idFrom="41" idTo="7" byLegs="0" location="" x1="292" y1="204" x2="292" y2="176"/>
+                <edge id="37" value="3" idFrom="7" idTo="22" byLegs="0" location="" x1="292" y1="176" x2="292" y2="149"/>
+                <edge id="38" value="3" idFrom="22" idTo="42" byLegs="0" location="" x1="292" y1="149" x2="319" y2="121"/>
+                <edge id="39" value="3" idFrom="42" idTo="43" byLegs="0" location="" x1="319" y1="121" x2="319" y2="93"/>
+                <edge id="40" value="2" idFrom="43" idTo="2" byLegs="0" location="" x1="319" y1="93" x2="344" y2="62"/>
+                <edge id="41" value="6" idFrom="2" idTo="10" byLegs="0" location="" x1="343" y1="68" x2="367" y2="45"/>
+                <edge id="42" value="3" idFrom="10" idTo="11" byLegs="0" location="" x1="367" y1="45" x2="367" y2="7"/>
+                <edge id="43" value="4" idFrom="6" idTo="31" byLegs="0" location="" x1="268" y1="479" x2="268" y2="436"/>
+                <edge id="44" value="3" idFrom="31" idTo="15" byLegs="0" location="" x1="268" y1="436" x2="228" y2="396"/>
+                <edge id="45" value="4" idFrom="15" idTo="51" byLegs="0" location="" x1="203" y1="371" x2="187" y2="356"/>
+                <edge id="46" value="5" idFrom="51" idTo="54" byLegs="0" location="" x1="157" y1="327" x2="85" y2="253"/>
+                <edge id="47" value="2" idFrom="54" idTo="63" byLegs="0" location="" x1="85" y1="253" x2="85" y2="218"/>
+                <edge id="48" value="4" idFrom="63" idTo="18" byLegs="0" location="" x1="85" y1="218" x2="51" y2="183"/>
+                <edge id="49" value="3" idFrom="18" idTo="55" byLegs="0" location="" x1="51" y1="183" x2="51" y2="127"/>
+                <edge id="50" value="3" idFrom="55" idTo="17" byLegs="0" location="" x1="51" y1="127" x2="51" y2="94"/>
+                <edge id="51" value="4" idFrom="50" idTo="32" byLegs="0" location="" x1="368" y1="566" x2="368" y2="530"/>
+                <edge id="52" value="3" idFrom="32" idTo="45" byLegs="0" location="" x1="368" y1="530" x2="340" y2="502"/>
+                <edge id="53" value="3" idFrom="45" idTo="24" byLegs="0" location="" x1="340" y1="502" x2="340" y2="456"/>
+                <edge id="54" value="3" idFrom="24" idTo="13" byLegs="0" location="" x1="340" y1="456" x2="340" y2="417"/>
+                <edge id="55" value="5" idFrom="13" idTo="38" byLegs="0" location="" x1="340" y1="417" x2="340" y2="371"/>
+                <edge id="56" value="2" idFrom="38" idTo="39" byLegs="1" location="" x1="340" y1="344" x2="340" y2="370" x3="340" y3="353"/>
+                <edge id="57" value="3" idFrom="38" idTo="25" byLegs="0" location="" x1="333" y1="337" x2="311" y2="315"/>
+                <edge id="58" value="3" idFrom="25" idTo="9" byLegs="0" location="" x1="282" y1="296" x2="186" y2="296"/>
+                <edge id="59" value="4" idFrom="9" idTo="4" byLegs="0" location="" x1="159" y1="297" x2="61" y2="296"/>
+                <edge id="60" value="4" idFrom="4" idTo="44" byLegs="0" location="" x1="61" y1="296" x2="42" y2="278"/>
+                <edge id="61" value="2" idFrom="59" idTo="46" byLegs="0" location="" x1="490" y1="477" x2="491" y2="436"/>
+                <edge id="62" value="3" idFrom="46" idTo="20" byLegs="0" location="" x1="491" y1="436" x2="490" y2="393"/>
+                <edge id="63" value="3" idFrom="20" idTo="30" byLegs="0" location="" x1="490" y1="393" x2="460" y2="361"/>
+                <edge id="64" value="3" idFrom="30" idTo="39" byLegs="0" location="" x1="460" y1="361" x2="355" y2="362"/>
+                <edge id="65" value="3" idFrom="39" idTo="23" byLegs="0" location="" x1="332" y1="368" x2="296" y2="403"/>
+                <edge id="66" value="2" idFrom="23" idTo="12" byLegs="0" location="" x1="296" y1="403" x2="257" y2="367"/>
+                <edge id="67" value="4" idFrom="12" idTo="53" byLegs="0" location="" x1="228" y1="349" x2="190" y2="349"/>
+                <edge id="68" value="3" idFrom="51" idTo="53" byLegs="1" location="" x1="169" y1="336" x2="180" y2="349" x3="169" y3="345"/>
+	</edges_list>	
+</info>
